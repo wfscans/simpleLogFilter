@@ -1,5 +1,6 @@
 import sys
-from colorama import Fore
+from colorama import Fore, init
+init()
 
 class codeblock:
     def __init__(self):
